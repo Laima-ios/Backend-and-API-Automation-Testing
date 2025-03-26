@@ -1,0 +1,7 @@
+codeception.yml
+paths:
+    tests: tests
+    log: tests/_output
+    data: tests/_data
+    support: tests/_support
+actor_suffix: Tester
